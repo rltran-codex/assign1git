@@ -3,4 +3,4 @@ Richard Tran
 
 First comment
 
-Changes made in 'testbranch'
+This is a change on newbranch
